@@ -18,4 +18,4 @@ console.log("The results of the mathematical operations are :");
 console.log(sum);
 console.log(difference);
 console.log(product);
-console.log(quotient)
+console.log(quotient);
