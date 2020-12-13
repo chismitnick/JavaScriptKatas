@@ -1,2 +1,3 @@
 # JavaScriptKatas
-JavaScript Basics based on courses taken @ freecodecamp.org
+JavaScript deep dive based on material from courses taken @ freecodecamp.org
+Eloquent Javascript by Marijn Haverbeke
