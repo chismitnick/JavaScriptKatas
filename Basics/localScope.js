@@ -20,4 +20,4 @@ function bweza() {
 
 
 localScope();
-console.log(bweza());
+console.log("I am wearing a",bweza());
