@@ -6,7 +6,7 @@
 
 //This means that the loop will never stop unless the break
 //statement inside is executed
-for(let currentNumber = 20; ;currentNumber = currentNumber + 1){
+for(let currentNumber = 20; ;currentNumber = currentNumber += 1){
 
     if(currentNumber % 7 == 0){
         console.log(currentNumber);
